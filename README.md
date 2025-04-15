@@ -6,6 +6,6 @@ CHANGELOG:
 
 re1 - release
 
-lag machine 
+lag machine (to be fixed)
 
 fake bluescreen
